@@ -33,7 +33,7 @@ The model was trained on the **HAM10000 dataset**. To handle the significant cla
 2. **Ensemble Training:** The individual CNNs were frozen, and only the gating network was trained to optimize the combination of expert outputs.
 
 ## Contributors
-* Mohammad Abdul Aziz
+* Aziz Abdur Rakib
 * Kyle Sabado
 * Keli Chen
 * Uddhava Swaminathan
